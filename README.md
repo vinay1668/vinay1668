@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on AI,Python, Ollama
 - 🤔 I’m looking for help with AI/M
 - 💬 Ask me about Golang, Golang Web Frameworkd
-- 📫 How to reach me: [vinay1668.com](vinay1668.com)
+- 📫 How to reach me: [vinay1668.com](https://vinay1668.com/)
 
 
 # 💻 Tech Stack:
