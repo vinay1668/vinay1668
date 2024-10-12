@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on Golang
 - 🌱 I’m currently learning Python, AI/ML
 - 👯 I’m looking to collaborate on AI,Python, Ollama
-- 🤔 I’m looking for help with AI/M
-- 💬 Ask me about Golang, Golang Web Framework
+- 🤔 I’m looking for help with AI/ML
+- 💬 Ask me about Golang, Golang Web Frameworks
 - 📫 How to reach me: [vinay1668.com](https://vinay1668.com/)
 
 
